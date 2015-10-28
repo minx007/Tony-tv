@@ -1,0 +1,1169 @@
+#EXTM3U
+#EXTINF:101 tvg-id="Das Erste" group-title="Deutsche Kanäle" tvg-logo="/logos/105.png",ARD HD
+http://cdn-07.v-sr.net/gpl/z030402/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:102 tvg-id="ZDF" group-title="Deutsche Kanäle" tvg-logo="/logos/106.png",ZDF HD
+http://cdn-07.v-sr.net/gpl/z030401/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:103 tvg-id="SAT.1 HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/41.png",Sat.1 HD
+http://cdn-07.v-sr.net/gpl/z010101/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:104 tvg-id="RTL HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/13.png",RTL HD
+http://cdn-07.v-sr.net/gpl/z030101/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:105 tvg-id="RTL2 HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/107.png",RTL2 HD
+http://cdn-07.v-sr.net/gpl/z030104/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:106 tvg-id="ProSieben HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/12.png",Pro7 HD
+http://cdn-07.v-sr.net/gpl/z010102/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:107 tvg-id="VOX HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/109.png",VOX HD
+http://cdn-07.v-sr.net/gpl/z050220/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:108 tvg-id="kabel eins HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/108.png",Kabel1 HD
+http://cdn-07.v-sr.net/gpl/z010103/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:109 tvg-id="SIXX HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/112.png",SIXX HD
+http://cdn-07.v-sr.net/gpl/z010104/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:110 tvg-id="SRF 1 HD" group-title="Deutsche Kanäle" tvg-logo="/logos/112.png",SRF 1 DE
+http://cdn-07.v-sr.net/gpl/z050581/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:111 tvg-id="SRF 2 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/112.png",SRF 2 DE
+http://cdn-07.v-sr.net/gpl/z050582/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:112 tvg-id="SRF info" group-title="Deutsche Kanäle" tvg-logo="/logos/112.png",SRF info
+http://cdn-07.v-sr.net/gpl/z050687/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:113 tvg-id="arte HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/110.png",arte HD
+http://cdn-07.v-sr.net/gpl/z050218/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:114 tvg-id="Pro Sieben Maxx DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1320.png",Pro 7 MAXX HD DE
+http://cdn-07.v-sr.net/gpl/z053036/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:115 tvg-id="Sky Bundesliga HD 1 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/16.png",Sky Bundesliga HD 1
+http://cdn-07.v-sr.net/gpl/z050333/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:116 tvg-id="Sky Bundesliga HD 2 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/16.png",Sky Bundesliga 2
+http://cdn-07.v-sr.net/gpl/z050570/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:117 tvg-id="Sky Bundesliga 3 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/16.png",Sky Bundesliga 3
+http://cdn-07.v-sr.net/gpl/z050571/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:118 tvg-id="Sky Bundesliga 4 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/16.png",Sky Bundesliga 4
+http://cdn-07.v-sr.net/gpl/z050572/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:119 tvg-id="Sky Bundesliga 5 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/16.png",Sky Bundesliga 5
+http://cdn-07.v-sr.net/gpl/z050573/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:120 tvg-id="Sky Bundesliga 6 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/16.png",Sky Bundesliga 6
+http://cdn-07.v-sr.net/gpl/z050574/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:121 tvg-id="Sky Bundesliga HD 7 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/16.png",Sky Bundesliga 7
+http://cdn-07.v-sr.net/gpl/z050575/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:122 tvg-id="Sky Bundesliga HD 8 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/16.png",Sky Bundesliga 8
+http://cdn-07.v-sr.net/gpl/z050576/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:123 tvg-id="Sky Bundesliga HD 9 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/16.png",Sky Bundesliga 9
+http://cdn-07.v-sr.net/gpl/z050577/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:124 tvg-id="Sky Bundesliga 10 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/16.png",Sky Bundesliga 10
+http://cdn-07.v-sr.net/gpl/z053058/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:125 tvg-id="Sky Sport HD 1 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/113.png",Sky Sport HD 1
+http://cdn-07.v-sr.net/gpl/z050358/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:126 tvg-id="Sky Sport HD 2 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/2.png",Sky Sport HD 2
+http://cdn-07.v-sr.net/gpl/z050286/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:127 tvg-id="Sky Sport 3 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1332.png",Sky Sport 3 DE
+http://cdn-07.v-sr.net/gpl/z053050/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:128 tvg-id="Sky Sport 4 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1333.png",Sky Sport 4 DE
+http://cdn-07.v-sr.net/gpl/z053051/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:129 tvg-id="Sky Sport 5 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1334.png",Sky Sport 5 DE
+http://cdn-07.v-sr.net/gpl/z053052/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:130 tvg-id="Sky Sport 6 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1335.png",Sky Sport 6 DE
+http://cdn-07.v-sr.net/gpl/z053053/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:131 tvg-id="Sky Sport 7 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1336.png",Sky Sport 7 DE
+http://cdn-07.v-sr.net/gpl/z053054/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:132 tvg-id="Sky Sport 8 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1337.png",Sky Sport 8 DE
+http://cdn-07.v-sr.net/gpl/z053055/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:133 tvg-id="Sky Sport 9 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1338.png",Sky Sport 9 DE
+http://cdn-07.v-sr.net/gpl/z053056/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:134 tvg-id="Sky Sport 10 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1339.png",Sky Sport 10 DE
+http://cdn-07.v-sr.net/gpl/z053057/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:135 tvg-id="Sky Sport 11 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1340.png",Sky Sport 11 DE
+http://cdn-07.v-sr.net/gpl/z053049/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:136  group-title="Deutsche Kanäle" tvg-logo="/logos/1340.png",Sky Sport News DE
+http://cdn-07.v-sr.net/gpl/z053062/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:137 tvg-id="SPORT1 HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/332.png",SPORT1 HD DE
+http://cdn-07.v-sr.net/gpl/z030103/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:138 tvg-id="Sport 1+ DE" group-title="Deutsche Kanäle" tvg-logo="/logos/513.png",Sport 1+ DE
+http://cdn-07.v-sr.net/gpl/z050578/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:139 tvg-id="Sport 1 US DE" group-title="Deutsche Kanäle" tvg-logo="/logos/513.png",Sport 1 US
+http://cdn-07.v-sr.net/gpl/z050686/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:140 tvg-id="Eurosport DE" group-title="Deutsche Kanäle" tvg-logo="/logos/411.png",Eurosport DE
+http://cdn-07.v-sr.net/gpl/z050503/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:141 tvg-id="Sky Cinema HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/223.png",Sky Cinema HD
+http://cdn-07.v-sr.net/gpl/z050393/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:142 tvg-id="Sky Action HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/14.png",Sky Action HD
+http://cdn-07.v-sr.net/gpl/z050280/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:143 tvg-id="Sky Hits DE" group-title="Deutsche Kanäle" tvg-logo="/logos/7.png",Sky 007 James Bond HD
+http://cdn-07.v-sr.net/gpl/z050274/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:144 tvg-id="Sky Atlantic HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/10.png",Sky Atlantic HD
+http://cdn-07.v-sr.net/gpl/z050285/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:145 tvg-id="Sky Cinema +24 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/489.png",Sky Cinema +24 DE
+http://cdn-07.v-sr.net/gpl/z053061/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:146 tvg-id="Fox HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/514.png",FOX DE
+http://cdn-07.v-sr.net/gpl/z050579/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:147 tvg-id="MGM HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/235.png",MGM DE
+http://cdn-07.v-sr.net/gpl/z050408/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:148 tvg-id="TNT Film DE" group-title="Deutsche Kanäle" tvg-logo="/logos/491.png",TNT Film DE
+http://cdn-07.v-sr.net/gpl/z050566/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:149 tvg-id="TNT Serie HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/234.png",TNT Serie HD DE
+http://cdn-07.v-sr.net/gpl/z050407/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:150 tvg-id="13th Street DE" group-title="Deutsche Kanäle" tvg-logo="/logos/487.png",13th Street DE
+http://cdn-07.v-sr.net/gpl/z050561/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:151 tvg-id="AXN HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/515.png",AXN DE
+http://cdn-07.v-sr.net/gpl/z050580/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:152 tvg-id="Syfy HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/488.png",Syfy DE
+http://cdn-07.v-sr.net/gpl/z050563/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:153 tvg-id="Sky Emotion DE" group-title="Deutsche Kanäle" tvg-logo="/logos/488.png",Sky Emotion DE
+http://cdn-07.v-sr.net/gpl/z053060/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:154 tvg-id="Sky Comedy DE" group-title="Deutsche Kanäle" tvg-logo="/logos/490.png",Sky Comedy DE
+http://cdn-07.v-sr.net/gpl/z053059/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:155 tvg-id="DMAX DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1321.png",DMAX HD DE
+http://cdn-07.v-sr.net/gpl/z053037/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:156 tvg-id="History HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/486.png",History HD DE
+http://cdn-07.v-sr.net/gpl/z050560/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:157 tvg-id="Nat Geo Wild HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/11.png",NatGeoWild HD
+http://cdn-07.v-sr.net/gpl/z050287/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:158 tvg-id="NatGeo HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/18.png",National Geographic HD
+http://cdn-07.v-sr.net/gpl/z050288/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:159 tvg-id="Discovery HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/18.png",Discovery Channel Deutschland
+http://cdn-07.v-sr.net/gpl/z050596/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:160 tvg-id="3sat HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/407.png",3sat HD DE
+http://cdn-07.v-sr.net/gpl/z050497/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:161 tvg-id="Phoenix DE" group-title="Deutsche Kanäle" tvg-logo="/logos/378.png",Phoenix DE
+http://cdn-07.v-sr.net/gpl/z050496/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:162 tvg-id="Sky 3D DE" group-title="Deutsche Kanäle" tvg-logo="/logos/501.png",Sky 3D DE
+http://cdn-07.v-sr.net/gpl/z050569/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:163 tvg-id="RTL Nitro DE" group-title="Deutsche Kanäle" tvg-logo="/logos/419.png",RTL Nitro DE
+http://cdn-07.v-sr.net/gpl/z050545/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:164 tvg-id="Super RTL DE" group-title="Deutsche Kanäle" tvg-logo="/logos/420.png",Super RTL DE
+http://cdn-07.v-sr.net/gpl/z050546/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:165 tvg-id="KIKA HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/409.png",KIKA HD DE
+http://cdn-07.v-sr.net/gpl/z050498/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:166 tvg-id="Nickelodeon_Comedy Central DE" group-title="Deutsche Kanäle" tvg-logo="/logos/331.png",Nickelodeon/Comedy Central 
+http://cdn-07.v-sr.net/gpl/z050475/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:167 tvg-id="Disney Ch HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/17.png",Disney Channel HD
+http://cdn-07.v-sr.net/gpl/z050592/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:168 tvg-id="Disney Cinemagic DE" group-title="Deutsche Kanäle" tvg-logo="/logos/492.png",Disney Cinemagic HD DE
+http://cdn-07.v-sr.net/gpl/z050562/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:169 tvg-id="N24 HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/111.png",N24 HD
+http://cdn-07.v-sr.net/gpl/z050008/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:170 tvg-id="N-TV DE" group-title="Deutsche Kanäle" tvg-logo="/logos/422.png",N-TV DE
+http://cdn-07.v-sr.net/gpl/z050548/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:171 tvg-id="Tagesschau 24 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/374.png",Tagesschau 24 DE
+http://cdn-07.v-sr.net/gpl/z050492/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:172 tvg-id="DE Euronews" group-title="Deutsche Kanäle" tvg-logo="/logos/412.png",EuroNews DE
+http://cdn-07.v-sr.net/gpl/z050504/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:173 tvg-id="Einsfestival DE" group-title="Deutsche Kanäle" tvg-logo="/logos/375.png",Einsfestival DE
+http://cdn-07.v-sr.net/gpl/z050493/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:174 tvg-id="Eins Plus DE" group-title="Deutsche Kanäle" tvg-logo="/logos/376.png",Eins Plus DE 
+http://cdn-07.v-sr.net/gpl/z050494/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:175 tvg-id="MDR Fernsehen Sachsen-Anhalt DE" group-title="Deutsche Kanäle" tvg-logo="/logos/376.png",MDR Fernsehen Sachsen-Anhalt DE
+http://cdn-07.v-sr.net/gpl/z050612/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:176 tvg-id="HR Fernsehen DE" group-title="Deutsche Kanäle" tvg-logo="/logos/376.png",HR Fernsehen DE
+http://cdn-07.v-sr.net/gpl/z050610/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:177 tvg-id="RBB Berlin DE" group-title="Deutsche Kanäle" tvg-logo="/logos/376.png",RBB Berlin DE
+http://cdn-07.v-sr.net/gpl/z050611/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:178 tvg-id="Deluxe Music HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/574.png",Deluxe Music Austria DE
+http://cdn-07.v-sr.net/gpl/z050593/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:179 tvg-id="ZDF info HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/410.png",ZDF info HD DE
+http://cdn-07.v-sr.net/gpl/z050499/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:180 tvg-id="Sky HD FanZone DE" group-title="Deutsche Kanäle" tvg-logo="/logos/410.png",Sky HD FanZone
+http://cdn-07.v-sr.net/gpl/z050685/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:181 tvg-id="Sky Nostalgie DE" group-title="Deutsche Kanäle" tvg-logo="/logos/410.png",Sky Nostalgie DE
+http://cdn-07.v-sr.net/gpl/z053063/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:182 tvg-id="Tele 5 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/410.png",Tele 5 HD
+http://cdn-07.v-sr.net/gpl/z053064/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:198 tvg-id="OEins_HD" group-title="Deutsche Kanäle" tvg-logo="/logos/499.png",ORF eins HD 
+http://cdn-07.v-sr.net/gpl/z050567/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:199 tvg-id="O2_DE" group-title="Deutsche Kanäle" tvg-logo="/logos/500.png",ORF 2 HD
+http://cdn-07.v-sr.net/gpl/z050568/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:200 tvg-id="S28.2E-2-2025-3813" group-title="English channels" tvg-logo="/logos/239.png",Animal Planet HD UK
+http://cdn-07.v-sr.net/gpl/z050001/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:201 tvg-id="S28.2E-2-2024-3815" group-title="English channels" tvg-logo="/logos/139.png",Sky Movies Modern Greats
+http://cdn-07.v-sr.net/gpl/z050228/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:202 tvg-id="UK Eurosport HD" group-title="English channels" tvg-logo="/logos/140.png",EUROSPORT HD
+http://cdn-07.v-sr.net/gpl/z010601/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:203 tvg-id="S28.2E-2-2008-3823" group-title="English channels" tvg-logo="/logos/149.png",FOX EN
+http://cdn-07.v-sr.net/gpl/z050232/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:204 tvg-id="S28.2E-2-2020-3869" group-title="English channels" tvg-logo="/logos/142.png",Nickelodeon
+http://cdn-07.v-sr.net/gpl/z020502/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:205 tvg-id="S28.2E-2-2016-3818" group-title="English channels" tvg-logo="/logos/143.png",Sky Movies Family
+http://cdn-07.v-sr.net/gpl/z050294/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:206 tvg-id="S28.2E-2-2020-3856" group-title="English channels" tvg-logo="/logos/144.png",Comedy Central UK
+http://cdn-07.v-sr.net/gpl/z020503/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:207 tvg-id="S28.2E-2-2016-3821" group-title="English channels" tvg-logo="/logos/145.png",Sky Movies Premiere EN
+http://cdn-07.v-sr.net/gpl/z050323/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:208 tvg-id="S28.2E-2-2024-3816" group-title="English channels" tvg-logo="/logos/146.png",Sky Movies Drama Romance
+http://cdn-07.v-sr.net/gpl/z050229/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:209 tvg-id="S28.2E-2-2016-3901" group-title="English channels" tvg-logo="/logos/147.png",Sky Select EN
+http://cdn-07.v-sr.net/gpl/z050347/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:210 tvg-id="S28.2E-2-2024-3817" group-title="English channels" tvg-logo="/logos/148.png",Sky Movies Sci-Fi Horror
+http://cdn-07.v-sr.net/gpl/z050230/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:211 tvg-id="S28.2E-2-2021-4214" group-title="English channels" tvg-logo="/logos/150.png",Sky Sports 1
+http://cdn-07.v-sr.net/gpl/z050226/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:212 tvg-id="S28.2E-2-2033-3910" group-title="English channels" tvg-logo="/logos/150.png",Sky Sports 2
+http://cdn-07.v-sr.net/gpl/z063021/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:213 tvg-id="S28.2E-2-2021-4219" group-title="English channels" tvg-logo="/logos/654.png",Sky Sports 3
+http://cdn-07.v-sr.net/gpl/z050607/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:214 tvg-id="S28.2E-2-2033-3826" group-title="English channels" tvg-logo="/logos/654.png",Sky Sports 4
+http://cdn-07.v-sr.net/gpl/z050708/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:215 tvg-id="S28.2E-2-2021-1306" group-title="English channels" tvg-logo="/logos/191.png",Sky Sports F1
+http://cdn-07.v-sr.net/gpl/z050360/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:216 tvg-id="S28.2E-2-2024-3819" group-title="English channels" tvg-logo="/logos/152.png",Sky Movies Comedy
+http://cdn-07.v-sr.net/gpl/z050231/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:217 tvg-id="S28.2E-2-2016-3862" group-title="English channels" tvg-logo="/logos/155.png",Sky Thriller
+http://cdn-07.v-sr.net/gpl/z050236/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:218 tvg-id="S28.2E-2-2025-4653" group-title="English channels" tvg-logo="/logos/240.png",History UK
+http://cdn-07.v-sr.net/gpl/z050003/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:219 tvg-id="S28.2E-2-2021-5720" group-title="English channels" tvg-logo="/logos/236.png",Sky_Movies Showcase EN
+http://cdn-07.v-sr.net/gpl/z050405/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:221 tvg-id="S28.2E-2-2003-3870" group-title="English channels" tvg-logo="/logos/238.png",Disney XD UK
+http://cdn-07.v-sr.net/gpl/z020101/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:222 tvg-id="S28.2E-2-2028-3814" group-title="English channels" tvg-logo="/logos/241.png",Sky Action UK
+http://cdn-07.v-sr.net/gpl/z050237/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:223 tvg-id="S28.2E-2-2034-3916" group-title="English channels" tvg-logo="/logos/242.png",Discovery UK
+http://cdn-07.v-sr.net/gpl/z050240/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:225 tvg-id="S28.2E-2-2028-3885" group-title="English channels" tvg-logo="/logos/245.png",NatGeoWild UK
+http://cdn-07.v-sr.net/gpl/z050238/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:226 tvg-id="S28.2E-2-2028-3888" group-title="English channels" tvg-logo="/logos/247.png",Crime UK
+http://cdn-07.v-sr.net/gpl/z050353/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:228 tvg-id="S28.2E-2-2024-3900" group-title="English channels" tvg-logo="/logos/249.png",Disney Movies UK
+http://cdn-07.v-sr.net/gpl/z050361/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:230 tvg-id="MTV Dance" group-title="English channels" tvg-logo="/logos/120.png",MTV Dance
+http://cdn-07.v-sr.net/gpl/z010002/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:231 tvg-id="VH1 Classic" group-title="English channels" tvg-logo="/logos/121.png",VH1 Classic
+http://cdn-07.v-sr.net/gpl/z010003/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:232 tvg-id="S28.2E-2-2025-4801" group-title="English channels" tvg-logo="/logos/121.png",Fox News UK
+http://cdn-07.v-sr.net/gpl/z050613/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:233 tvg-id="S28.2E-2-2025-4805" group-title="English channels" tvg-logo="/logos/121.png",National Geographic UK
+http://cdn-07.v-sr.net/gpl/z050614/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:234 tvg-id="S28.2E-2-2025-4804" group-title="English channels" tvg-logo="/logos/121.png",At The Races UK
+http://cdn-07.v-sr.net/gpl/z050615/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:235 tvg-id="S28.2E-2-2039-3850" group-title="English channels" tvg-logo="/logos/154.png",Sky News UK
+http://cdn-07.v-sr.net/gpl/z063022/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:237 tvg-id="S28.2E-2-2006-6523" group-title="English channels" tvg-logo="/logos/384.png",Really UK
+http://cdn-07.v-sr.net/gpl/z053038/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:239 tvg-id="S28.2E-2-2021-5500" group-title="English channels" tvg-logo="/logos/384.png",PBS America UK
+http://cdn-07.v-sr.net/gpl/z050731/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:240 tvg-id="S28.2E-2-2006-6501" group-title="English channels" tvg-logo="/logos/387.png",Home UK
+http://cdn-07.v-sr.net/gpl/z053021/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:241 tvg-id="S28.2E-2-2006-6502" group-title="English channels" tvg-logo="/logos/388.png",Eden UK
+http://cdn-07.v-sr.net/gpl/z053022/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:242 tvg-id="S28.2E-2-2301-52100" group-title="English channels" tvg-logo="/logos/383.png",Travel Channel +1
+http://cdn-07.v-sr.net/gpl/z050521/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:243 tvg-id="S28.2E-2-2006-6505" group-title="English channels" tvg-logo="/logos/390.png",Yesterday UK
+http://cdn-07.v-sr.net/gpl/z053024/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:244 tvg-id="S28.2E-2-2006-6520" group-title="English channels" tvg-logo="/logos/391.png",Watch UK
+http://cdn-07.v-sr.net/gpl/z053027/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:245 tvg-id="S28.2E-2-2006-6521" group-title="English channels" tvg-logo="/logos/392.png",Alibi UK
+http://cdn-07.v-sr.net/gpl/z053028/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:246 tvg-id="S28.2E-2-2006-6522" group-title="English channels" tvg-logo="/logos/393.png",Drama UK
+http://cdn-07.v-sr.net/gpl/z053029/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:250 tvg-id="S28.2E-2-2073-50331" group-title="English channels" tvg-logo="/logos/404.png",BT Sport Extra UK
+http://cdn-07.v-sr.net/gpl/z050739/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:253 tvg-id="S28.2E-2-2407-52440" group-title="English channels" tvg-logo="/logos/400.png",Discovery Shed UK
+http://cdn-07.v-sr.net/gpl/z053017/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:254 tvg-id="S28.2E-2-2407-52405" group-title="English channels" tvg-logo="/logos/401.png",Animal_Plnt+1 UK
+http://cdn-07.v-sr.net/gpl/z053018/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:255 tvg-id="S28.2E-2-2407-52415" group-title="English channels" tvg-logo="/logos/402.png",DMAX UK
+http://cdn-07.v-sr.net/gpl/z053019/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:256 tvg-id="S28.2E-2-2407-52430" group-title="English channels" tvg-logo="/logos/403.png",QUEST+1 UK
+http://cdn-07.v-sr.net/gpl/z053020/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:259 tvg-id="S28.2E-2-2044-10060" group-title="English channels" tvg-logo="/logos/664.png",ITV London 
+http://cdn-07.v-sr.net/gpl/z060007/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:260 tvg-id="S28.2E-2-2044-10070" group-title="English channels" tvg-logo="/logos/571.png",ITV 2 UK
+http://cdn-07.v-sr.net/gpl/z060008/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:262 tvg-id="S28.2E-2-2044-10072" group-title="English channels" tvg-logo="/logos/573.png",ITV 4 UK
+http://cdn-07.v-sr.net/gpl/z060009/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:263 tvg-id="S28.2E-2-2050-6940" group-title="English channels" tvg-logo="/logos/650.png",BBC Two
+http://cdn-07.v-sr.net/gpl/z063010/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:264 tvg-id="S28.2E-2-2050-6941" group-title="English channels" tvg-logo="/logos/651.png",BBC One
+http://cdn-07.v-sr.net/gpl/z063011/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:265 tvg-id="S28.2E-2-2050-6951" group-title="English channels" tvg-logo="/logos/652.png",BBC 3(19-07)
+http://cdn-07.v-sr.net/gpl/z063012/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:266 tvg-id="S28.2E-2-2073-50365" group-title="English channels" tvg-logo="/logos/652.png",BT Sport 1
+http://cdn-07.v-sr.net/gpl/z050733/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:267 tvg-id="S28.2E-2-2073-50375" group-title="English channels" tvg-logo="/logos/652.png",BT Sport 2
+http://cdn-07.v-sr.net/gpl/z050734/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:268 tvg-id="S28.2E-2-2073-50325" group-title="English channels" tvg-logo="/logos/652.png",Motors TV UK
+http://cdn-07.v-sr.net/gpl/z050735/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:269 tvg-id="S28.2E-2-2073-50345" group-title="English channels" tvg-logo="/logos/652.png",MUTV
+http://cdn-07.v-sr.net/gpl/z050736/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:270 tvg-id="S28.2E-2-2021-5719" group-title="English channels" tvg-logo="/logos/652.png",Sky Arts
+http://cdn-07.v-sr.net/gpl/z050655/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:272 tvg-id="S28.2E-2-2011-9102" group-title="English channels" tvg-logo="/logos/722.png",Disney Channel UK
+http://cdn-07.v-sr.net/gpl/z050627/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:273 tvg-id="S28.2E-2-2011-9103" group-title="English channels" tvg-logo="/logos/723.png",Disney Junior UK
+http://cdn-07.v-sr.net/gpl/z050628/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:274 tvg-id="S28.2E-2-2011-1303" group-title="English channels" tvg-logo="/logos/724.png",Sky Sports 5
+http://cdn-07.v-sr.net/gpl/z050629/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:275 tvg-id="S28.2E-2-2009-6233" group-title="English channels" tvg-logo="/logos/725.png",TLC UK
+http://cdn-07.v-sr.net/gpl/z050630/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:276 tvg-id="S28.2E-2-2009-6206" group-title="English channels" tvg-logo="/logos/726.png",Discovery Science UK
+http://cdn-07.v-sr.net/gpl/z050631/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:277 tvg-id="S28.2E-2-2009-6207" group-title="English channels" tvg-logo="/logos/727.png",Discovery History UK
+http://cdn-07.v-sr.net/gpl/z050632/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:278 tvg-id="S28.2E-2-2009-6208" group-title="English channels" tvg-logo="/logos/728.png",Discovery Home & Health UK
+http://cdn-07.v-sr.net/gpl/z050633/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:279 tvg-id="S28.2E-2-2009-6209" group-title="English channels" tvg-logo="/logos/729.png",Discovery Turbo UK
+http://cdn-07.v-sr.net/gpl/z050634/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:280 tvg-id="S28.2E-2-2009-6211" group-title="English channels" tvg-logo="/logos/730.png",Quest
+http://cdn-07.v-sr.net/gpl/z050635/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:281 tvg-id="S28.2E-2-2009-6212" group-title="English channels" tvg-logo="/logos/731.png",ID UK
+http://cdn-07.v-sr.net/gpl/z050636/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:282 tvg-id="S28.2E-2-2029-5562" group-title="English channels" tvg-logo="/logos/732.png",NickToons UK
+http://cdn-07.v-sr.net/gpl/z050637/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:283 tvg-id="S28.2E-2-2029-5563" group-title="English channels" tvg-logo="/logos/733.png",Nick Jr UK
+http://cdn-07.v-sr.net/gpl/z050638/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:284 tvg-id="S28.2E-2-2029-5564" group-title="English channels" tvg-logo="/logos/734.png",Baby TV
+http://cdn-07.v-sr.net/gpl/z050639/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:286 tvg-id="S28.2E-2-2026-4752" group-title="English channels" tvg-logo="/logos/749.png",Sky 2UK
+http://cdn-07.v-sr.net/gpl/z060014/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:287 tvg-id="S28.2E-2-2073-50380" group-title="English channels" tvg-logo="/logos/749.png",ESPN  UK
+http://cdn-07.v-sr.net/gpl/z050738/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:288 tvg-id="S28.2E-2-2023-5009" group-title="English channels" tvg-logo="/logos/749.png",British Eurosport 2 UK
+http://cdn-07.v-sr.net/gpl/z050657/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:289 tvg-id="S28.2E-2-2023-4907" group-title="English channels" tvg-logo="/logos/749.png",Sky Sports News UK
+http://cdn-07.v-sr.net/gpl/z050707/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:290 tvg-id="S28.2E-2-2006-6504" group-title="English channels" tvg-logo="/logos/754.png",GOLD UK
+http://cdn-07.v-sr.net/gpl/z053023/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:291 tvg-id="S28.2E-2-2006-6506" group-title="English channels" tvg-logo="/logos/751.png",Dave UK
+http://cdn-07.v-sr.net/gpl/z053025/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:292 tvg-id="S28.2E-2-2006-6508" group-title="English channels" tvg-logo="/logos/665.png",Good Food Channel UK
+http://cdn-07.v-sr.net/gpl/z053026/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:293 tvg-id="S28.2E-2-2043-9601" group-title="English channels" tvg-logo="/logos/665.png",RTÉ One
+http://cdn-07.v-sr.net/gpl/z060017/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:294 tvg-id="S28.2E-2-2043-9602" group-title="English channels" tvg-logo="/logos/665.png",RTÉ Two
+http://cdn-07.v-sr.net/gpl/z060018/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:295 tvg-id="S28.2E-2-2043-9603" group-title="English channels" tvg-logo="/logos/665.png",TG 4
+http://cdn-07.v-sr.net/gpl/z060019/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:296 tvg-id="S28.2E-2-2040-12050" group-title="English channels" tvg-logo="/logos/759.png",E4
+http://cdn-07.v-sr.net/gpl/z060020/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:297 tvg-id="S28.2E-2-2042-8340" group-title="English channels" tvg-logo="/logos/760.png",More 4
+http://cdn-07.v-sr.net/gpl/z060023/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:301 tvg-id="S13.0E-64511-5300-14238" group-title="Canali italiani" tvg-logo="/logos/156.png",Fox Crime Italia
+http://cdn-07.v-sr.net/gpl/z053001/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:302 tvg-id="S13.0E-64511-5300-14237" group-title="Canali italiani" tvg-logo="/logos/157.png",Fox Italia
+http://cdn-07.v-sr.net/gpl/z053002/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:303 tvg-id="S13.0E-64511-6900-3511" group-title="Canali italiani" tvg-logo="/logos/159.png",GamberoRosso Channel
+http://cdn-07.v-sr.net/gpl/z053003/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:304 tvg-id="S13.0E-64511-5900-9477" group-title="Canali italiani" tvg-logo="/logos/158.png",Sky Uno
+http://cdn-07.v-sr.net/gpl/z050334/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:306 tvg-id="S13.0E-64511-7500-4128" group-title="Canali italiani" tvg-logo="/logos/161.png",Disney Ch
+http://cdn-07.v-sr.net/gpl/z050335/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:307 tvg-id="S13.0E-64511-8200-4204" group-title="Canali italiani" tvg-logo="/logos/162.png",Sky Cinema Hits IT
+http://cdn-07.v-sr.net/gpl/z050211/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:308 tvg-id="S13.0E-64511-8200-4206" group-title="Canali italiani" tvg-logo="/logos/163.png",Sky Cinema Max
+http://cdn-07.v-sr.net/gpl/z050206/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:309 tvg-id="S13.0E-64511-5300-14236" group-title="Canali italiani" tvg-logo="/logos/164.png",National Geographic Channel Italia
+http://cdn-07.v-sr.net/gpl/z050223/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:310 tvg-id="S13.0E-64511-6900-3512" group-title="Canali italiani" tvg-logo="/logos/165.png",Fox Life Italia
+http://cdn-07.v-sr.net/gpl/z053010/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:311 tvg-id="S13.0E-64511-6900-3513" group-title="Canali italiani" tvg-logo="/logos/166.png",The History Channel Italia
+http://cdn-07.v-sr.net/gpl/z053011/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:312 tvg-id="S13.0E-64511-6900-3564" group-title="Canali italiani" tvg-logo="/logos/167.png",Cinema Cult
+http://cdn-07.v-sr.net/gpl/z053012/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:313 tvg-id="S13.0E-64511-8200-4202" group-title="Canali italiani" tvg-logo="/logos/168.png",Sky Cinema 1
+http://cdn-07.v-sr.net/gpl/z050207/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:314 tvg-id="S13.0E-64511-7500-4117" group-title="Canali italiani" tvg-logo="/logos/169.png",Discovery Channel Italia
+http://cdn-07.v-sr.net/gpl/z050208/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:315 tvg-id="S13.0E-64511-8300-7209" group-title="Canali italiani" tvg-logo="/logos/170.jpg",Sky SuperCalcio
+http://cdn-07.v-sr.net/gpl/z050304/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:316 tvg-id="S13.0E-64511-8300-7231" group-title="Canali italiani" tvg-logo="/logos/171.jpg",Sky_Cinema_Passion
+http://cdn-07.v-sr.net/gpl/z050243/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:317 tvg-id="S13.0E-64511-8300-7255" group-title="Canali italiani" tvg-logo="/logos/172.png",Sky Cinema Family
+http://cdn-07.v-sr.net/gpl/z050244/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:318 tvg-id="S13.0E-64511-8600-3917" group-title="Canali italiani" tvg-logo="/logos/173.jpg",Sky Calcio 1
+http://cdn-07.v-sr.net/gpl/z050312/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:319 tvg-id="S13.0E-64511-5900-9485" group-title="Canali italiani" tvg-logo="/logos/189.png",Sky Sport F1 IT
+http://cdn-07.v-sr.net/gpl/z050359/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:320 tvg-id="S13.0E-64511-6400-11023" group-title="Canali italiani" tvg-logo="/logos/244.png",Sky Sport 1 IT
+http://cdn-07.v-sr.net/gpl/z050348/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:321 tvg-id="S13.0E-64511-6400-11032" group-title="Canali italiani" tvg-logo="/logos/246.png",Cinema Classics IT
+http://cdn-07.v-sr.net/gpl/z050350/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:322 tvg-id="S13.0E-318-12400-8511" group-title="Canali italiani" tvg-logo="/logos/362.png",Rai 1 IT
+http://cdn-07.v-sr.net/gpl/z050482/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:323 tvg-id="S13.0E-318-12400-8512" group-title="Canali italiani" tvg-logo="/logos/363.png",Rai 2 IT
+http://cdn-07.v-sr.net/gpl/z050483/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:324 tvg-id="S13.0E-318-12400-8513" group-title="Canali italiani" tvg-logo="/logos/364.png",Rai 3 IT
+http://cdn-07.v-sr.net/gpl/z050484/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:326 tvg-id="IT Rai Premium" group-title="Canali italiani" tvg-logo="/logos/366.png",Rai Premium IT
+http://cdn-07.v-sr.net/gpl/z050688/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:328 tvg-id="S13.0E-318-12400-8516" group-title="Canali italiani" tvg-logo="/logos/365.png",Rai News 24 IT
+http://cdn-07.v-sr.net/gpl/z050485/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:329 tvg-id="S13.0E-318-5400-3310" group-title="Canali italiani" tvg-logo="/logos/369.png",Rai Gulp IT
+http://cdn-07.v-sr.net/gpl/z050487/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:330 tvg-id="S13.0E-318-5400-3305" group-title="Canali italiani" tvg-logo="/logos/370.jpg",Rai Sport 1 IT
+http://cdn-07.v-sr.net/gpl/z050488/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:331 tvg-id="S13.0E-318-5400-3301" group-title="Canali italiani" tvg-logo="/logos/371.jpg",Rai Sport 2 IT
+http://cdn-07.v-sr.net/gpl/z050489/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:332 tvg-id="S13.0E-318-5400-3307" group-title="Canali italiani" tvg-logo="/logos/372.jpg",Rai Storia IT
+http://cdn-07.v-sr.net/gpl/z050490/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:334 tvg-id="S13.0E-64511-6200-10921" group-title="Canali italiani" tvg-logo="/logos/430.png",Sky Sport 2 IT
+http://cdn-07.v-sr.net/gpl/z050555/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:335 tvg-id="S13.0E-64511-6700-11737" group-title="Canali italiani" tvg-logo="/logos/431.png",Sky Sport 3 IT
+http://cdn-07.v-sr.net/gpl/z050556/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:336 tvg-id="S13.0E-272-6000-1" group-title="Canali italiani" tvg-logo="/logos/432.png",Italia 1 IT
+http://cdn-07.v-sr.net/gpl/z050557/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:337 tvg-id="S13.0E-272-6000-3" group-title="Canali italiani" tvg-logo="/logos/433.png",Rete 4 IT
+http://cdn-07.v-sr.net/gpl/z050558/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:338 tvg-id="S13.0E-272-6000-5" group-title="Canali italiani" tvg-logo="/logos/434.png",Canale 5 IT
+http://cdn-07.v-sr.net/gpl/z050559/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:339 tvg-id="S13.0E-64511-6600-11110" group-title="Canali italiani" tvg-logo="/logos/540.png",Cielo IT
+http://cdn-07.v-sr.net/gpl/z050588/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:342 tvg-id="IT Boing" group-title="Canali italiani" tvg-logo="/logos/540.png",Boing Italia
+http://cdn-07.v-sr.net/gpl/z050597/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:343 tvg-id="IT Iris" group-title="Canali italiani" tvg-logo="/logos/540.png",Iris
+http://cdn-07.v-sr.net/gpl/z050598/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:345 tvg-id="IT La 5" group-title="Canali italiani" tvg-logo="/logos/540.png",La 5
+http://cdn-07.v-sr.net/gpl/z050601/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:346 tvg-id="IT TgCOM 24" group-title="Canali italiani" tvg-logo="/logos/540.png",TGCOM 24
+http://cdn-07.v-sr.net/gpl/z050602/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:347 tvg-id="S13.0E-272-990-12" group-title="Canali italiani" tvg-logo="/logos/540.png",Top Crime IT
+http://cdn-07.v-sr.net/gpl/z050603/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:348 tvg-id="IT Mediaset Italia 2" group-title="Canali italiani" tvg-logo="/logos/540.png",Mediaset Italia 2
+http://cdn-07.v-sr.net/gpl/z050604/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:349 tvg-id="IT Mediaset Extra" group-title="Canali italiani" tvg-logo="/logos/540.png",Mediaset Extra IT
+http://cdn-07.v-sr.net/gpl/z050605/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:350 tvg-id="MTV" group-title="Canali italiani" tvg-logo="/logos/916.png",MTV Italy
+http://cdn-07.v-sr.net/gpl/z050694/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:351 tvg-id="IT Deejay TV" group-title="Canali italiani" tvg-logo="/logos/917.png",Deejay  TV 
+http://cdn-07.v-sr.net/gpl/z050695/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:352 tvg-id="S28.2E-2-2315-52420" group-title="Canali italiani" tvg-logo="/logos/918.png",DMAX Italy
+http://cdn-07.v-sr.net/gpl/z050698/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:354 tvg-id="S13.0E-64511-6700-11786" group-title="Canali italiani" tvg-logo="/logos/918.png",Fox Sports IT
+http://cdn-07.v-sr.net/gpl/z050595/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:355 tvg-id="S13.0E-64511-6600-11180" group-title="Canali italiani" tvg-logo="/logos/368.jpg",TV2000 IT
+http://cdn-07.v-sr.net/gpl/z050486/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:356 tvg-id="R10_La 7" group-title="Canali italiani" tvg-logo="/logos/367.png",La 7
+http://cdn-07.v-sr.net/gpl/z050606/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:401 tvg-id="FRA2.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/174.png",France 2
+http://cdn-07.v-sr.net/gpl/z010105/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:402 tvg-id="FRA3.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/182.png",France 3
+http://cdn-07.v-sr.net/gpl/z010111/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:403 tvg-id="FRA5.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/184.png",France 5
+http://cdn-07.v-sr.net/gpl/z010113/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:404 tvg-id="DIR1.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/178.png",D8
+http://cdn-07.v-sr.net/gpl/z050251/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:405 tvg-id="W91.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/179.png",W9
+http://cdn-07.v-sr.net/gpl/z010108/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:406 tvg-id="TCM1.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/179.png",TMC
+http://cdn-07.v-sr.net/gpl/z010109/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:407 tvg-id="NRJ1.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/181.png",NRJ12
+http://cdn-07.v-sr.net/gpl/z010110/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:408 tvg-id="M61.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/175.png",M6
+http://cdn-07.v-sr.net/gpl/z010106/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:409 tvg-id="NT11.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/183.png",NT1
+http://cdn-07.v-sr.net/gpl/z050250/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:410 tvg-id="BEI1.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/177.png",BElN SPORT1
+http://cdn-07.v-sr.net/gpl/z050345/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:411 tvg-id="BEI2.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/194.png",BElN SPORT2
+http://cdn-07.v-sr.net/gpl/z050365/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:412 tvg-id="CANALplus.fr" group-title="Chaînes françaises" tvg-logo="/logos/185.png",CANAL+
+http://cdn-07.v-sr.net/gpl/z050346/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:413 tvg-id="TF11.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/176.png",TF1
+http://cdn-07.v-sr.net/gpl/z010107/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:414 tvg-id="CAN3.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/195.png",CANAL+ CINEMA
+http://cdn-07.v-sr.net/gpl/z050366/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:415 tvg-id="CAN5.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/196.png",CANAL+ SPORT
+http://cdn-07.v-sr.net/gpl/z050367/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:416 tvg-id="CIN23.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/197.png",CINE+ PREMIER
+http://cdn-07.v-sr.net/gpl/z050368/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:419 tvg-id="EUR2.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/320.png",D17 FR
+http://cdn-07.v-sr.net/gpl/z050457/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:420 tvg-id="GUL1.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/321.png",Gulli FR
+http://cdn-07.v-sr.net/gpl/z050458/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:421 tvg-id="FRA1.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/322.png",FRANCE Ô
+http://cdn-07.v-sr.net/gpl/z050459/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:422 tvg-id="RTL2.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/323.png",RTL 9
+http://cdn-07.v-sr.net/gpl/z050460/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:423 tvg-id="MOT1.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/324.png",AB MOTEURS FR
+http://cdn-07.v-sr.net/gpl/z050461/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:424 tvg-id="ANI1.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/325.png",ANIMAUX FR
+http://cdn-07.v-sr.net/gpl/z050462/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:425 tvg-id="Chasse_Peche" group-title="Chaînes françaises" tvg-logo="/logos/326.png",CHASSE & PECHE FR
+http://cdn-07.v-sr.net/gpl/z050463/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:426 tvg-id="TOU1.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/327.png",Toute l Histoire FR
+http://cdn-07.v-sr.net/gpl/z050464/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:427 tvg-id="MAN1.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/328.png",MANGAS FR
+http://cdn-07.v-sr.net/gpl/z050465/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:428 tvg-id="ENC1.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/329.png",ENCYCLO FR
+http://cdn-07.v-sr.net/gpl/z050466/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:430 tvg-id="SW RTS Un HD" group-title="Chaînes françaises" tvg-logo="/logos/329.png",RTS Un FR
+http://cdn-07.v-sr.net/gpl/z050583/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:431 tvg-id="SW RTS Deux HD" group-title="Chaînes françaises" tvg-logo="/logos/329.png",RTS Deux FR
+http://cdn-07.v-sr.net/gpl/z050584/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:433 tvg-id="CIN1.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/329.png",CINE FX
+http://cdn-07.v-sr.net/gpl/z050704/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:434 tvg-id="CIN2.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/329.png",CINE POLAR
+http://cdn-07.v-sr.net/gpl/z050705/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:435 tvg-id="ACT1.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/329.png",Action
+http://cdn-07.v-sr.net/gpl/z050706/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:436 tvg-id="FRA4.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/1232.png",France 4
+http://cdn-07.v-sr.net/gpl/z053013/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:437 tvg-id="ART1.kazer.org" group-title="Chaînes françaises" tvg-logo="/logos/1233.png",ARTE
+http://cdn-07.v-sr.net/gpl/z053014/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:438  group-title="Chaînes françaises" tvg-logo="/logos/1234.png",Trek
+http://cdn-07.v-sr.net/gpl/z053015/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:439  group-title="Chaînes françaises" tvg-logo="/logos/1235.png",Science & Vie TV
+http://cdn-07.v-sr.net/gpl/z053016/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:501 tvg-id="Show TV" group-title="Turkish Channels" tvg-logo="/logos/224.png",SHOW TV TR
+http://cdn-07.v-sr.net/gpl/z050394/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:502 tvg-id="Kanal D" group-title="Turkish Channels" tvg-logo="/logos/225.jpg",KANAL D TUR
+http://cdn-07.v-sr.net/gpl/z050395/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:503 tvg-id="Fox" group-title="Turkish Channels" tvg-logo="/logos/226.png",FOX TUR
+http://cdn-07.v-sr.net/gpl/z050396/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:504 tvg-id="Kanal 7" group-title="Turkish Channels" tvg-logo="/logos/226.png",KANAL 7 TUR
+http://cdn-07.v-sr.net/gpl/z050397/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:505 tvg-id="ATV" group-title="Turkish Channels" tvg-logo="/logos/228.png",ATV TUR
+http://cdn-07.v-sr.net/gpl/z050398/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:506 tvg-id="Halk TV" group-title="Turkish Channels" tvg-logo="/logos/200.jpg",HALK TV
+http://cdn-07.v-sr.net/gpl/z050371/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:507 tvg-id="Kanal B" group-title="Turkish Channels" tvg-logo="/logos/201.jpg",KANAL B
+http://cdn-07.v-sr.net/gpl/z050372/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:508 tvg-id="TRT Çocuk / TRT4" group-title="Turkish Channels" tvg-logo="/logos/202.png",TRT ÇOCUK
+http://cdn-07.v-sr.net/gpl/z050373/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:509 tvg-id="NTV" group-title="Turkish Channels" tvg-logo="/logos/203.png",NTV TR
+http://cdn-07.v-sr.net/gpl/z050374/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:510 tvg-id="KANALTURK" group-title="Turkish Channels" tvg-logo="/logos/204.jpg",KANALTURK
+http://cdn-07.v-sr.net/gpl/z050375/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:511 tvg-id="CNN TÜRK" group-title="Turkish Channels" tvg-logo="/logos/205.png",CNN TR
+http://cdn-07.v-sr.net/gpl/z050376/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:513 tvg-id="TV8" group-title="Turkish Channels" tvg-logo="/logos/207.png",TV8 TR
+http://cdn-07.v-sr.net/gpl/z050378/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:514 tvg-id="Kral POP" group-title="Turkish Channels" tvg-logo="/logos/208.png",KRAL POP TR
+http://cdn-07.v-sr.net/gpl/z050379/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:515 tvg-id="Kanal 24" group-title="Turkish Channels" tvg-logo="/logos/209.png",24 TR
+http://cdn-07.v-sr.net/gpl/z050380/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:517 tvg-id="TRT 1" group-title="Turkish Channels" tvg-logo="/logos/211.png",TRT1 TR
+http://cdn-07.v-sr.net/gpl/z050382/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:518 tvg-id="TRT Haber" group-title="Turkish Channels" tvg-logo="/logos/212.jpg",Halk HABER TR
+http://cdn-07.v-sr.net/gpl/z050383/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:519 tvg-id="Turkmax" group-title="Turkish Channels" tvg-logo="/logos/213.png",TURKMAX TR
+http://cdn-07.v-sr.net/gpl/z050384/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:521 tvg-id="Flash TV" group-title="Turkish Channels" tvg-logo="/logos/215.jpg",FLASH TV TR
+http://cdn-07.v-sr.net/gpl/z050386/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:522 tvg-id="Powerturk TV" group-title="Turkish Channels" tvg-logo="/logos/215.jpg",POWERTURK TV TR
+http://cdn-07.v-sr.net/gpl/z050387/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:523 tvg-id="Planet Çocuk" group-title="Turkish Channels" tvg-logo="/logos/215.jpg",PLANET ÇOCUK TR
+http://cdn-07.v-sr.net/gpl/z050388/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:524 tvg-id="Star TV" group-title="Turkish Channels" tvg-logo="/logos/215.jpg",STAR TR
+http://cdn-07.v-sr.net/gpl/z050389/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:525 tvg-id="National Geographic" group-title="Turkish Channels" tvg-logo="/logos/215.jpg",NAT GEO TR
+http://cdn-07.v-sr.net/gpl/z050390/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:526 tvg-id="National Geographic Wild" group-title="Turkish Channels" tvg-logo="/logos/215.jpg",NAT GEO WILD TR
+http://cdn-07.v-sr.net/gpl/z050391/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:527 tvg-id="History" group-title="Turkish Channels" tvg-logo="/logos/215.jpg",HISTORY TR
+http://cdn-07.v-sr.net/gpl/z050392/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:533 tvg-id="BEYAZ TV" group-title="Turkish Channels" tvg-logo="/logos/215.jpg",Beyaz TV TR
+http://cdn-07.v-sr.net/gpl/z050431/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:536 tvg-id="Cartoon Network" group-title="Turkish Channels" tvg-logo="/logos/215.jpg",Cartoon Network TR
+http://cdn-07.v-sr.net/gpl/z050585/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:537  group-title="Turkish Channels" tvg-logo="/logos/215.jpg",Disney XD TR
+http://cdn-07.v-sr.net/gpl/z050683/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:538 tvg-id="NTV Spor" group-title="Turkish Channels" tvg-logo="/logos/215.jpg",NTV Spor TR
+http://cdn-07.v-sr.net/gpl/z050469/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:539 tvg-id="MinikaGO" group-title="Turkish Channels" tvg-logo="/logos/215.jpg",Minika Go TR
+http://cdn-07.v-sr.net/gpl/z050470/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:540 tvg-id="CINE 5" group-title="Turkish Channels" tvg-logo="/logos/215.jpg",Cine 5 TR
+http://cdn-07.v-sr.net/gpl/z050471/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:541 tvg-id="TVNET" group-title="Turkish Channels" tvg-logo="/logos/215.jpg",TV Net TR
+http://cdn-07.v-sr.net/gpl/z050472/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:542 tvg-id="Disney Junior" group-title="Turkish Channels" tvg-logo="/logos/215.jpg",Disney Junior TR
+http://cdn-07.v-sr.net/gpl/z050473/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:543 tvg-id="Ülke TV" group-title="Turkish Channels" tvg-logo="/logos/215.jpg",Ülke TV TR
+http://cdn-07.v-sr.net/gpl/z050474/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:544 tvg-id="Eurosport" group-title="Turkish Channels" tvg-logo="/logos/1315.png",EUROSPORT TR
+http://cdn-07.v-sr.net/gpl/z053031/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:545 tvg-id="Disney Channel" group-title="Turkish Channels" tvg-logo="/logos/1316.png",DISNEY CHANNEL TR
+http://cdn-07.v-sr.net/gpl/z053032/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:546  group-title="Turkish Channels" tvg-logo="/logos/1317.png",360 TR
+http://cdn-07.v-sr.net/gpl/z053033/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:547 tvg-id="ANIMAL PLANET" group-title="Turkish Channels" tvg-logo="/logos/1318.png",ANIMAL PLANET TR
+http://cdn-07.v-sr.net/gpl/z053034/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:548 tvg-id="MGM Movies" group-title="Turkish Channels" tvg-logo="/logos/1319.png",MGM MOVIES
+http://cdn-07.v-sr.net/gpl/z053035/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:570 tvg-id="TRT AVAZ" group-title="Turkish Channels" tvg-logo="/logos/1322.png",TRT Avaz TR
+http://cdn-07.v-sr.net/gpl/z053040/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:571 tvg-id="TRT Okul" group-title="Turkish Channels" tvg-logo="/logos/1323.png",TRT Okul TR
+http://cdn-07.v-sr.net/gpl/z053041/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:572 tvg-id="TRT Arapça" group-title="Turkish Channels" tvg-logo="/logos/1324.png",TRT Arapca TR
+http://cdn-07.v-sr.net/gpl/z053042/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:573  group-title="Turkish Channels" tvg-logo="/logos/1325.png",TRT Belgesel TR
+http://cdn-07.v-sr.net/gpl/z053043/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:574 tvg-id="TRT TURK" group-title="Turkish Channels" tvg-logo="/logos/1326.png",TRT TR
+http://cdn-07.v-sr.net/gpl/z053044/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:575 tvg-id="A Haber" group-title="Turkish Channels" tvg-logo="/logos/1327.png",A HABER TR
+http://cdn-07.v-sr.net/gpl/z053039/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:576  group-title="Turkish Channels" tvg-logo="/logos/1328.png",TRT Kurdi tr
+http://cdn-07.v-sr.net/gpl/z053045/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:577 tvg-id="TRT Haber" group-title="Turkish Channels" tvg-logo="/logos/1329.png",TRT Haber TR
+http://cdn-07.v-sr.net/gpl/z053046/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:578  group-title="Turkish Channels" tvg-logo="/logos/1330.png",TRT Diyanet TR
+http://cdn-07.v-sr.net/gpl/z053047/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:579 tvg-id="TRT Müzik" group-title="Turkish Channels" tvg-logo="/logos/1331.png",TRT Muzik TR
+http://cdn-07.v-sr.net/gpl/z053048/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:601  group-title="Albanian channels" tvg-logo="/logos/1331.png",Vizion Plus AL
+http://cdn-07.v-sr.net/gpl/z960001/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:602  group-title="Albanian channels" tvg-logo="/logos/1331.png",Tring Super AL
+http://cdn-07.v-sr.net/gpl/z960002/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:603  group-title="Albanian channels" tvg-logo="/logos/1331.png",Tring Sport News AL
+http://cdn-07.v-sr.net/gpl/z960003/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:604  group-title="Albanian channels" tvg-logo="/logos/1331.png",Tring Comedy AL
+http://cdn-07.v-sr.net/gpl/z960004/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:605  group-title="Albanian channels" tvg-logo="/logos/1331.png",Tip TV AL
+http://cdn-07.v-sr.net/gpl/z960005/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:606  group-title="Albanian channels" tvg-logo="/logos/1331.png",Tring Tring AL
+http://cdn-07.v-sr.net/gpl/z960006/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:607  group-title="Albanian channels" tvg-logo="/logos/1331.png",Tring Planet AL
+http://cdn-07.v-sr.net/gpl/z960007/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:611  group-title="Albanian channels" tvg-logo="/logos/1331.png",Smile AL
+http://cdn-07.v-sr.net/gpl/z960011/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:612  group-title="Albanian channels" tvg-logo="/logos/1331.png",3 Plus AL
+http://cdn-07.v-sr.net/gpl/z960012/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:613  group-title="Albanian channels" tvg-logo="/logos/1331.png",Tring World AL
+http://cdn-07.v-sr.net/gpl/z960013/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:615  group-title="Albanian channels" tvg-logo="/logos/1331.png",Tring Shqip AL
+http://cdn-07.v-sr.net/gpl/z960015/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:616  group-title="Albanian channels" tvg-logo="/logos/1331.png",Folk + AL
+http://cdn-07.v-sr.net/gpl/z960016/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:617  group-title="Albanian channels" tvg-logo="/logos/1331.png",Kanali 7 AL
+http://cdn-07.v-sr.net/gpl/z960017/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:619  group-title="Albanian channels" tvg-logo="/logos/1331.png",Tring Fantasy AL
+http://cdn-07.v-sr.net/gpl/z960019/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:620  group-title="Albanian channels" tvg-logo="/logos/1331.png",Tring History AL
+http://cdn-07.v-sr.net/gpl/z960020/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:621  group-title="Albanian channels" tvg-logo="/logos/1331.png",RTV 21 Sat AL
+http://cdn-07.v-sr.net/gpl/z960021/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:622  group-title="Albanian channels" tvg-logo="/logos/1331.png",Fox Life AL
+http://cdn-07.v-sr.net/gpl/z960022/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:623  group-title="Albanian channels" tvg-logo="/logos/1331.png",Agon Channel AL
+http://cdn-07.v-sr.net/gpl/z960023/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:624  group-title="Albanian channels" tvg-logo="/logos/1331.png",BBF Music TV AL
+http://cdn-07.v-sr.net/gpl/z960024/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:625  group-title="Albanian channels" tvg-logo="/logos/1331.png",RTV 21 Plus AL
+http://cdn-07.v-sr.net/gpl/z960025/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:627  group-title="Albanian channels" tvg-logo="/logos/1331.png",SuperSport2 HD AL
+http://cdn-07.v-sr.net/gpl/z050699/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:633  group-title="Albanian channels" tvg-logo="/logos/1331.png",Sport 1 AL
+http://cdn-07.v-sr.net/gpl/z960033/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:701  group-title="Bonus Channels" tvg-logo="/logos/1331.png",NHL 1
+http://cdn-07.v-sr.net/gpl/z060131/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:702  group-title="Bonus Channels" tvg-logo="/logos/1331.png",NHL 2
+http://cdn-07.v-sr.net/gpl/z060132/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:703  group-title="Bonus Channels" tvg-logo="/logos/1331.png",NHL 3
+http://cdn-07.v-sr.net/gpl/z060133/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:704  group-title="Bonus Channels" tvg-logo="/logos/1331.png",NHL 4
+http://cdn-07.v-sr.net/gpl/z060134/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:705  group-title="Bonus Channels" tvg-logo="/logos/1331.png",NHL 5
+http://cdn-07.v-sr.net/gpl/z060135/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:706  group-title="Bonus Channels" tvg-logo="/logos/1331.png",NHL 6
+http://cdn-07.v-sr.net/gpl/z060136/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:713  group-title="Bonus Channels" tvg-logo="/logos/1331.png",TSN1  US
+http://cdn-07.v-sr.net/gpl/z060126/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:714  group-title="Bonus Channels" tvg-logo="/logos/1331.png",TSN2  US
+http://cdn-07.v-sr.net/gpl/z060127/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:715  group-title="Bonus Channels" tvg-logo="/logos/1331.png",TSN3  US
+http://cdn-07.v-sr.net/gpl/z060128/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:716  group-title="Bonus Channels" tvg-logo="/logos/1331.png",TSN4  US
+http://cdn-07.v-sr.net/gpl/z060129/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:717  group-title="Bonus Channels" tvg-logo="/logos/1331.png",TSN5  US
+http://cdn-07.v-sr.net/gpl/z060130/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:718  group-title="Bonus Channels" tvg-logo="/logos/1331.png",NBC
+http://cdn-07.v-sr.net/gpl/z060101/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:719  group-title="Bonus Channels" tvg-logo="/logos/1331.png",ABC HD
+http://cdn-07.v-sr.net/gpl/z060102/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:720  group-title="Bonus Channels" tvg-logo="/logos/1331.png",CBS HD
+http://cdn-07.v-sr.net/gpl/z060103/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:721  group-title="Bonus Channels" tvg-logo="/logos/1331.png",FOX HD
+http://cdn-07.v-sr.net/gpl/z060104/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:722  group-title="Bonus Channels" tvg-logo="/logos/1331.png",CTV HD
+http://cdn-07.v-sr.net/gpl/z060105/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:723  group-title="Bonus Channels" tvg-logo="/logos/1331.png",GLOBAL TV HD
+http://cdn-07.v-sr.net/gpl/z060106/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:724  group-title="Bonus Channels" tvg-logo="/logos/1331.png",CBC HD
+http://cdn-07.v-sr.net/gpl/z060107/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:725  group-title="Bonus Channels" tvg-logo="/logos/1331.png",CNN
+http://cdn-07.v-sr.net/gpl/z060108/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:726  group-title="Bonus Channels" tvg-logo="/logos/1331.png",SPIKE
+http://cdn-07.v-sr.net/gpl/z060109/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:727  group-title="Bonus Channels" tvg-logo="/logos/1331.png",WPIX
+http://cdn-07.v-sr.net/gpl/z060110/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:728  group-title="Bonus Channels" tvg-logo="/logos/1331.png",KTLA HD
+http://cdn-07.v-sr.net/gpl/z060111/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:729  group-title="Bonus Channels" tvg-logo="/logos/1331.png",TRUTV HD
+http://cdn-07.v-sr.net/gpl/z060112/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:730  group-title="Bonus Channels" tvg-logo="/logos/1331.png",BLOOMBERG HD
+http://cdn-07.v-sr.net/gpl/z060113/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:731  group-title="Bonus Channels" tvg-logo="/logos/1331.png",A&E HD
+http://cdn-07.v-sr.net/gpl/z060114/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:732  group-title="Bonus Channels" tvg-logo="/logos/1331.png",TLC HD
+http://cdn-07.v-sr.net/gpl/z060115/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:733  group-title="Bonus Channels" tvg-logo="/logos/1331.png",AMC HD
+http://cdn-07.v-sr.net/gpl/z060116/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:734  group-title="Bonus Channels" tvg-logo="/logos/1331.png",DISCOVERY HD
+http://cdn-07.v-sr.net/gpl/z060117/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:735  group-title="Bonus Channels" tvg-logo="/logos/1331.png",HIFI HD
+http://cdn-07.v-sr.net/gpl/z060118/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:736  group-title="Bonus Channels" tvg-logo="/logos/1331.png",BRAVO HD
+http://cdn-07.v-sr.net/gpl/z060119/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:737  group-title="Bonus Channels" tvg-logo="/logos/1331.png",NATGEO HD
+http://cdn-07.v-sr.net/gpl/z060120/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:738  group-title="Bonus Channels" tvg-logo="/logos/1331.png",SYFY HD
+http://cdn-07.v-sr.net/gpl/z060121/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:739  group-title="Bonus Channels" tvg-logo="/logos/1331.png",ANIMAL PLANET
+http://cdn-07.v-sr.net/gpl/z060122/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:740  group-title="Bonus Channels" tvg-logo="/logos/1331.png",NBA
+http://cdn-07.v-sr.net/gpl/z060123/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:741  group-title="Bonus Channels" tvg-logo="/logos/1331.png",NFL
+http://cdn-07.v-sr.net/gpl/z060124/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:742  group-title="Bonus Channels" tvg-logo="/logos/1331.png",Tennis
+http://cdn-07.v-sr.net/gpl/z060125/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:743  group-title="Bonus Channels" tvg-logo="/logos/1331.png",LMN
+http://cdn-07.v-sr.net/gpl/z060137/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:744  group-title="Bonus Channels" tvg-logo="/logos/1331.png",HBO East HD
+http://cdn-07.v-sr.net/gpl/z060138/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:745  group-title="Bonus Channels" tvg-logo="/logos/1331.png",HBO Signature HD
+http://cdn-07.v-sr.net/gpl/z060139/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:746  group-title="Bonus Channels" tvg-logo="/logos/1331.png",HBO COMEDY HD
+http://cdn-07.v-sr.net/gpl/z060140/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:747  group-title="Bonus Channels" tvg-logo="/logos/1331.png",HBO ZONE HD
+http://cdn-07.v-sr.net/gpl/z060141/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:748  group-title="Bonus Channels" tvg-logo="/logos/1331.png",CINEMAX HD
+http://cdn-07.v-sr.net/gpl/z060142/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:749  group-title="Bonus Channels" tvg-logo="/logos/1331.png",MoreMax HD
+http://cdn-07.v-sr.net/gpl/z060143/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:750  group-title="Bonus Channels" tvg-logo="/logos/1331.png",ACTION MAX HD
+http://cdn-07.v-sr.net/gpl/z060144/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:751  group-title="Bonus Channels" tvg-logo="/logos/1331.png",Cinemax 5 Star HD
+http://cdn-07.v-sr.net/gpl/z060145/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:752  group-title="Bonus Channels" tvg-logo="/logos/1331.png",STARZ CINEMA HD
+http://cdn-07.v-sr.net/gpl/z060146/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:753  group-title="Bonus Channels" tvg-logo="/logos/1331.png",STARZ EAST HD
+http://cdn-07.v-sr.net/gpl/z060147/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:754  group-title="Bonus Channels" tvg-logo="/logos/1331.png",STARZ EDGE HD
+http://cdn-07.v-sr.net/gpl/z060148/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:755  group-title="Bonus Channels" tvg-logo="/logos/1331.png",STARZ ENCORE HD
+http://cdn-07.v-sr.net/gpl/z060149/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:801 tvg-id="Perviy HD RU" group-title="Русские каналы" tvg-logo="/logos/114.png",Первый HD
+http://cdn-07.v-sr.net/gpl/z050336/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:802 tvg-id="Rossia HD RU" group-title="Русские каналы" tvg-logo="/logos/190.png",Россия 1 HD
+http://cdn-07.v-sr.net/gpl/z050362/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:804 tvg-id="Rossiya 1 RU" group-title="Русские каналы" tvg-logo="/logos/116.png",Россия 1
+http://cdn-07.v-sr.net/gpl/z050338/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:805 tvg-id="REN TV RU" group-title="Русские каналы" tvg-logo="/logos/115.png",Ren-TV
+http://cdn-07.v-sr.net/gpl/z050337/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:806 tvg-id="NTV RU" group-title="Русские каналы" tvg-logo="/logos/117.png",НТВ
+http://cdn-07.v-sr.net/gpl/z050339/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:807 tvg-id="TNT RU" group-title="Русские каналы" tvg-logo="/logos/118.png",THT
+http://cdn-07.v-sr.net/gpl/z050340/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:808 tvg-id="STS Moskva RU" group-title="Русские каналы" tvg-logo="/logos/119.png",СТС
+http://cdn-07.v-sr.net/gpl/z050341/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:809 tvg-id="Peretz RU" group-title="Русские каналы" tvg-logo="/logos/123.png",Перец
+http://cdn-07.v-sr.net/gpl/z050343/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:810 tvg-id="MGM HD RU" group-title="Русские каналы" tvg-logo="/logos/192.png",MGM HD RU
+http://cdn-07.v-sr.net/gpl/z050363/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:811 tvg-id="Cartoon Network RU" group-title="Русские каналы" tvg-logo="/logos/233.png",Cartoon Network RU
+http://cdn-07.v-sr.net/gpl/z050404/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:812 tvg-id="HD Kino RU" group-title="Русские каналы" tvg-logo="/logos/222.jpg",HD Кино
+http://cdn-07.v-sr.net/gpl/z080005/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:813 tvg-id="NTV Plus Premiera RU" group-title="Русские каналы" tvg-logo="/logos/229.jpg",Премьера
+http://cdn-07.v-sr.net/gpl/z050399/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:814 tvg-id="NTV Plus Kinoklub RU" group-title="Русские каналы" tvg-logo="/logos/230.jpg",Киноклуб
+http://cdn-07.v-sr.net/gpl/z050401/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:815 tvg-id="Nashe Kino RU" group-title="Русские каналы" tvg-logo="/logos/231.jpg",Наше кино
+http://cdn-07.v-sr.net/gpl/z050402/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:816 tvg-id="Kino Plus RU" group-title="Русские каналы" tvg-logo="/logos/232.jpg",КИНО ПЛЮС
+http://cdn-07.v-sr.net/gpl/z050403/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:817 tvg-id="Discovery HD RU" group-title="Русские каналы" tvg-logo="/logos/232.jpg",Discovery Channel RU
+http://cdn-07.v-sr.net/gpl/z050364/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:818 tvg-id="KHL TV RU" group-title="Русские каналы" tvg-logo="/logos/253.png",KHL TV RU
+http://cdn-07.v-sr.net/gpl/z050410/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:820 tvg-id="AMEDIA HIT RU" group-title="Русские каналы" tvg-logo="/logos/256.png",AMEDIA HIT RU
+http://cdn-07.v-sr.net/gpl/z053074/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:821 tvg-id="Kanal Disney RU" group-title="Русские каналы" tvg-logo="/logos/257.png",Kanal Disney RU
+http://cdn-07.v-sr.net/gpl/z050413/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:822 tvg-id="NHK WORLD TV RU" group-title="Русские каналы" tvg-logo="/logos/257.png",NHK WORLD TV RU
+http://cdn-07.v-sr.net/gpl/z053073/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:823 tvg-id="Nash Futbol RU" group-title="Русские каналы" tvg-logo="/logos/259.jpg",Наш Футбол
+http://cdn-07.v-sr.net/gpl/z050415/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:824 tvg-id="Pyatnitsa RU" group-title="Русские каналы" tvg-logo="/logos/260.jpg",Пятница!
+http://cdn-07.v-sr.net/gpl/z050416/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:825 tvg-id="Rossiya K RU" group-title="Русские каналы" tvg-logo="/logos/261.png",Россия К
+http://cdn-07.v-sr.net/gpl/z050417/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:826 tvg-id="Rossiya 24 RU" group-title="Русские каналы" tvg-logo="/logos/262.png",Россия 24
+http://cdn-07.v-sr.net/gpl/z050418/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:827 tvg-id="TV 3 RU" group-title="Русские каналы" tvg-logo="/logos/263.png",ТВ-3
+http://cdn-07.v-sr.net/gpl/z050419/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:828 tvg-id="Telekanal Zvezda RU" group-title="Русские каналы" tvg-logo="/logos/264.png",Телеканал Звезда
+http://cdn-07.v-sr.net/gpl/z050420/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:829 tvg-id="Kino Soyuz RU" group-title="Русские каналы" tvg-logo="/logos/265.jpg",Киносоюз
+http://cdn-07.v-sr.net/gpl/z050421/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:830 tvg-id="2X2 RU" group-title="Русские каналы" tvg-logo="/logos/265.jpg",2X2 RU
+http://cdn-07.v-sr.net/gpl/z053072/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:831 tvg-id="Amedia Premium RU" group-title="Русские каналы" tvg-logo="/logos/267.png",Amedia Premium RU
+http://cdn-07.v-sr.net/gpl/z053070/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:832 tvg-id="Moskva 24 RU" group-title="Русские каналы" tvg-logo="/logos/268.png",Москва-24
+http://cdn-07.v-sr.net/gpl/z050424/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:833 tvg-id="Telecafe RU" group-title="Русские каналы" tvg-logo="/logos/269.jpg",Телекафе
+http://cdn-07.v-sr.net/gpl/z050425/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:834 tvg-id="World Fashion Channel RU" group-title="Русские каналы" tvg-logo="/logos/270.png",World Fashion Channel RU
+http://cdn-07.v-sr.net/gpl/z050426/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:835 tvg-id="Egoist TV RU" group-title="Русские каналы" tvg-logo="/logos/271.jpg",Эгоист ТВ
+http://cdn-07.v-sr.net/gpl/z050427/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:836 tvg-id="ESP RU HD" group-title="Русские каналы" tvg-logo="/logos/272.png",Eurosport HD RU
+http://cdn-07.v-sr.net/gpl/z050428/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:838 tvg-id="NTV Plus Futbol RU" group-title="Русские каналы" tvg-logo="/logos/291.jpg",НТВ плюс Футбол
+http://cdn-07.v-sr.net/gpl/z050444/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:839 tvg-id="Kto est kto RU" group-title="Русские каналы" tvg-logo="/logos/292.jpg",Кто есть кто
+http://cdn-07.v-sr.net/gpl/z050445/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:840 tvg-id="24 Dok RU" group-title="Русские каналы" tvg-logo="/logos/293.png",24 док
+http://cdn-07.v-sr.net/gpl/z050446/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:841 tvg-id="Telekanal Domashniy RU" group-title="Русские каналы" tvg-logo="/logos/294.png",Телеканал домашний
+http://cdn-07.v-sr.net/gpl/z050447/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:842 tvg-id="DTX_RU" group-title="Русские каналы" tvg-logo="/logos/297.png",DTX RU
+http://cdn-07.v-sr.net/gpl/z050450/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:843 tvg-id="Discovery Science RU" group-title="Русские каналы" tvg-logo="/logos/298.png",Discovery Science RU
+http://cdn-07.v-sr.net/gpl/z050451/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:846 tvg-id="Extreme Sports RU" group-title="Русские каналы" tvg-logo="/logos/301.jpg",Extreme Sports RU
+http://cdn-07.v-sr.net/gpl/z050454/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:847 tvg-id="Nuart_TV_RU" group-title="for adults" tvg-logo="/logos/302.png",Nuart TV RU
+http://cdn-07.v-sr.net/gpl/z053068/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:849 tvg-id="TNV Planeta RU" group-title="Русские каналы" tvg-logo="/logos/358.png",ТНВ Планета RU
+http://cdn-07.v-sr.net/gpl/z050476/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:850 tvg-id="KinoHit RU" group-title="Русские каналы" tvg-logo="/logos/359.jpg",Кинохит RU
+http://cdn-07.v-sr.net/gpl/z050477/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:851 tvg-id="Nashe Novoe Kino RU" group-title="Русские каналы" tvg-logo="/logos/360.jpg",Наше новое кино RU
+http://cdn-07.v-sr.net/gpl/z050478/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:852 tvg-id="NTV_Plus_Futbol_3" group-title="Русские каналы" tvg-logo="/logos/361.png",Футбол 3 RU
+http://cdn-07.v-sr.net/gpl/z050479/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:853 tvg-id="NTV_Plus_Tennis_RU" group-title="Русские каналы" tvg-logo="/logos/677.png",NTV Plus Tennis RU
+http://cdn-07.v-sr.net/gpl/z050618/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:854 tvg-id="NTV_Plus_Basketbol_RU" group-title="Русские каналы" tvg-logo="/logos/678.png",NTV Plus Basketbol RU
+http://cdn-07.v-sr.net/gpl/z050619/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:855 tvg-id="NTV Plus Futbol 2 RU" group-title="Русские каналы" tvg-logo="/logos/679.png",Футбол 2 RU
+http://cdn-07.v-sr.net/gpl/z050620/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:856 tvg-id="Boytsovskiy_Klub_RU" group-title="Русские каналы" tvg-logo="/logos/680.png",Boytsovskiy Klub RU
+http://cdn-07.v-sr.net/gpl/z053067/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:857 tvg-id="Russkij Extreme RU" group-title="Русские каналы" tvg-logo="/logos/681.png",Russkij Extreme RU
+http://cdn-07.v-sr.net/gpl/z050622/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:858 tvg-id="U RU" group-title="Русские каналы" tvg-logo="/logos/682.png",Ю RU
+http://cdn-07.v-sr.net/gpl/z050623/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:859 tvg-id="Rossiya 2 RU" group-title="Русские каналы" tvg-logo="/logos/683.png",Россия 2 RU
+http://cdn-07.v-sr.net/gpl/z050624/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:860 tvg-id="Sport RU" group-title="Русские каналы" tvg-logo="/logos/683.png",Sport RU
+http://cdn-07.v-sr.net/gpl/z053066/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:861 tvg-id="Sport Plus RU" group-title="Русские каналы" tvg-logo="/logos/685.png",Спорт Плюс RU
+http://cdn-07.v-sr.net/gpl/z050626/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:862 tvg-id="Da Vinci Learning RU" group-title="Русские каналы" tvg-logo="/logos/685.png",Da Vinci Learning RU
+http://cdn-07.v-sr.net/gpl/z050640/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:863 tvg-id="TV 1000 East RU" group-title="Русские каналы" tvg-logo="/logos/685.png",TV1000 East RU
+http://cdn-07.v-sr.net/gpl/z050641/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:864 tvg-id="TV 1000 Action RU" group-title="Русские каналы" tvg-logo="/logos/685.png",TV1000 Action RU
+http://cdn-07.v-sr.net/gpl/z050642/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:865 tvg-id="TV 1000 Russkoe Kino RU" group-title="Русские каналы" tvg-logo="/logos/685.png",TV1000 Russkoe Kino RU
+http://cdn-07.v-sr.net/gpl/z050643/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:866 tvg-id="Viasat Explore RU" group-title="Русские каналы" tvg-logo="/logos/685.png",Viasat Explore RU
+http://cdn-07.v-sr.net/gpl/z050644/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:867 tvg-id="Viasat History RU" group-title="Русские каналы" tvg-logo="/logos/685.png",Viasat History RU
+http://cdn-07.v-sr.net/gpl/z050645/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:868 tvg-id="Viasat Nature East RU" group-title="Русские каналы" tvg-logo="/logos/685.png",Viasat Nature East RU
+http://cdn-07.v-sr.net/gpl/z050646/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:869 tvg-id="Viasat Sport East RU" group-title="Русские каналы" tvg-logo="/logos/685.png",Viasat Sport East RU
+http://cdn-07.v-sr.net/gpl/z050647/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:870 tvg-id="Sport 1 RU" group-title="Русские каналы" tvg-logo="/logos/744.png",Sport 1 RU
+http://cdn-07.v-sr.net/gpl/z053065/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:871 tvg-id="Ocean TV RU" group-title="Русские каналы" tvg-logo="/logos/744.png",Ocean TV RU
+http://cdn-07.v-sr.net/gpl/z050651/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:872 tvg-id="THT-Comedy RU" group-title="Русские каналы" tvg-logo="/logos/1125.png",THT-Comedy RU
+http://cdn-07.v-sr.net/gpl/z050709/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:873 tvg-id="BRIDGE_TV_RU" group-title="Русские каналы" tvg-logo="/logos/1126.png",BRIDGE TV RU
+http://cdn-07.v-sr.net/gpl/z050710/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:874 tvg-id="RUSONG_TV_RU" group-title="Русские каналы" tvg-logo="/logos/1126.png",RUSONG TV RU
+http://cdn-07.v-sr.net/gpl/z050711/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:875  group-title="Русские каналы" tvg-logo="/logos/1126.png",AMEDIA 2
+http://cdn-07.v-sr.net/gpl/z053091/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:876  group-title="Русские каналы" tvg-logo="/logos/1126.png",HD KINO 2
+http://cdn-07.v-sr.net/gpl/z053092/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:877  group-title="Русские каналы" tvg-logo="/logos/1126.png",ID
+http://cdn-07.v-sr.net/gpl/z053093/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:878  group-title="Русские каналы" tvg-logo="/logos/1126.png",AMC
+http://cdn-07.v-sr.net/gpl/z053094/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:879  group-title="Русские каналы" tvg-logo="/logos/1126.png",Food Network
+http://cdn-07.v-sr.net/gpl/z053098/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:880  group-title="Русские каналы" tvg-logo="/logos/1126.png",Nat Geo Wild HD
+http://cdn-07.v-sr.net/gpl/z053095/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:881  group-title="Русские каналы" tvg-logo="/logos/1126.png",3D
+http://cdn-07.v-sr.net/gpl/z053096/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:882  group-title="Русские каналы" tvg-logo="/logos/1126.png",Futbol 1 HD
+http://cdn-07.v-sr.net/gpl/z053097/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:883  group-title="Русские каналы" tvg-logo="/logos/1126.png",Nickelodeon HD
+http://cdn-07.v-sr.net/gpl/z053099/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:901 tvg-id="RedlightHD.ero" group-title="for adults" tvg-logo="/logos/25.jpg",Redlight HD
+http://cdn-07.v-sr.net/gpl/z990101/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:902 tvg-id="HustlerHD.ero" group-title="for adults" tvg-logo="/logos/20.jpg",HUSTLER HD
+http://cdn-07.v-sr.net/gpl/z990102/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:907  group-title="for adults" tvg-logo="/logos/20.jpg",SCT HD
+http://cdn-07.v-sr.net/gpl/z990107/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:908  group-title="for adults" tvg-logo="/logos/20.jpg",Redlight
+http://cdn-07.v-sr.net/gpl/z990108/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:909  group-title="for adults" tvg-logo="/logos/20.jpg",Diablo X TV 2
+http://cdn-07.v-sr.net/gpl/z990109/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:910  group-title="for adults" tvg-logo="/logos/20.jpg",Boy & Boy
+http://cdn-07.v-sr.net/gpl/z990110/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:911  group-title="for adults" tvg-logo="/logos/20.jpg",Privé TV
+http://cdn-07.v-sr.net/gpl/z990111/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:912  group-title="for adults" tvg-logo="/logos/20.jpg",Marc Dorcel
+http://cdn-07.v-sr.net/gpl/z990112/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:913  group-title="for adults" tvg-logo="/logos/20.jpg",SCT HQ
+http://cdn-07.v-sr.net/gpl/z990113/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:914  group-title="for adults" tvg-logo="/logos/767.png",Pink O TV
+http://cdn-07.v-sr.net/gpl/z990114/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1001  group-title="Bonus Channels" tvg-logo="/logos/767.png",On Tv AR
+http://cdn-07.v-sr.net/gpl/z064001/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1002  group-title="Bonus Channels" tvg-logo="/logos/767.png",Algeria 3 AR
+http://cdn-07.v-sr.net/gpl/z064002/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1003  group-title="Bonus Channels" tvg-logo="/logos/767.png",Art Hikayat 2 AR
+http://cdn-07.v-sr.net/gpl/z064003/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1004  group-title="Bonus Channels" tvg-logo="/logos/767.png",KBC  Algeria
+http://cdn-07.v-sr.net/gpl/z064004/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1005  group-title="Bonus Channels" tvg-logo="/logos/767.png",2m Maroc AR
+http://cdn-07.v-sr.net/gpl/z064005/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1006  group-title="Bonus Channels" tvg-logo="/logos/767.png",Art Hikayat 1 AR
+http://cdn-07.v-sr.net/gpl/z064006/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1007  group-title="Bonus Channels" tvg-logo="/logos/767.png",Algeria AR
+http://cdn-07.v-sr.net/gpl/z064007/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1008  group-title="Bonus Channels" tvg-logo="/logos/767.png",Aljazeera Doc AR
+http://cdn-07.v-sr.net/gpl/z064008/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1009  group-title="Bonus Channels" tvg-logo="/logos/767.png",Art Cinema AR
+http://cdn-07.v-sr.net/gpl/z064009/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1010  group-title="Bonus Channels" tvg-logo="/logos/767.png",MBC MAX AR
+http://cdn-07.v-sr.net/gpl/z064010/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1011  group-title="Bonus Channels" tvg-logo="/logos/767.png",MBC ACTION AR
+http://cdn-07.v-sr.net/gpl/z064011/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1012  group-title="Bonus Channels" tvg-logo="/logos/767.png",MBC 4 AR
+http://cdn-07.v-sr.net/gpl/z064012/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1013  group-title="Bonus Channels" tvg-logo="/logos/767.png",MBC 3 AR
+http://cdn-07.v-sr.net/gpl/z064013/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1014  group-title="Bonus Channels" tvg-logo="/logos/767.png",MBC 2 AR
+http://cdn-07.v-sr.net/gpl/z064014/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1015  group-title="Bonus Channels" tvg-logo="/logos/767.png",MBC 1 AR
+http://cdn-07.v-sr.net/gpl/z064015/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1016  group-title="Bonus Channels" tvg-logo="/logos/767.png",Mbc Bolly AR
+http://cdn-07.v-sr.net/gpl/z064016/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1017  group-title="Bonus Channels" tvg-logo="/logos/767.png",Mbc Drama AR
+http://cdn-07.v-sr.net/gpl/z064017/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1018  group-title="Bonus Channels" tvg-logo="/logos/767.png",Mbc Masr 2 AR
+http://cdn-07.v-sr.net/gpl/z064018/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1019  group-title="Bonus Channels" tvg-logo="/logos/767.png",Mbc Masr AR
+http://cdn-07.v-sr.net/gpl/z064019/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1020  group-title="Bonus Channels" tvg-logo="/logos/767.png",Al Babeleyia AR
+http://cdn-07.v-sr.net/gpl/z064020/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1021  group-title="Bonus Channels" tvg-logo="/logos/767.png",Rotana Classic AR
+http://cdn-07.v-sr.net/gpl/z064021/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1022  group-title="Bonus Channels" tvg-logo="/logos/767.png",Nessma AR
+http://cdn-07.v-sr.net/gpl/z064022/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1023  group-title="Bonus Channels" tvg-logo="/logos/767.png",Art Aflem 2 AR
+http://cdn-07.v-sr.net/gpl/z064023/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1024  group-title="Bonus Channels" tvg-logo="/logos/767.png",Aljazeera Misr AR
+http://cdn-07.v-sr.net/gpl/z064024/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1025  group-title="Bonus Channels" tvg-logo="/logos/767.png",Al Arabia AR
+http://cdn-07.v-sr.net/gpl/z064025/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1026  group-title="Bonus Channels" tvg-logo="/logos/767.png",Baraem AR
+http://cdn-07.v-sr.net/gpl/z064026/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1027  group-title="Bonus Channels" tvg-logo="/logos/767.png",BBC Arabic AR
+http://cdn-07.v-sr.net/gpl/z064027/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1028  group-title="Bonus Channels" tvg-logo="/logos/767.png",FUTURE TV AR
+http://cdn-07.v-sr.net/gpl/z064028/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1029  group-title="Bonus Channels" tvg-logo="/logos/767.png",ROTANA CINEMA AR
+http://cdn-07.v-sr.net/gpl/z064029/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1030  group-title="Bonus Channels" tvg-logo="/logos/767.png",EURONEWS AR
+http://cdn-07.v-sr.net/gpl/z064030/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1031  group-title="Bonus Channels" tvg-logo="/logos/767.png",France24 Arabic AR
+http://cdn-07.v-sr.net/gpl/z064031/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1032  group-title="Bonus Channels" tvg-logo="/logos/767.png",AD Nat Geo HD AR
+http://cdn-07.v-sr.net/gpl/z064032/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1033  group-title="Bonus Channels" tvg-logo="/logos/767.png",Al Tunisia
+http://cdn-07.v-sr.net/gpl/z064033/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1034  group-title="Bonus Channels" tvg-logo="/logos/767.png",TUNISIE TV1
+http://cdn-07.v-sr.net/gpl/z064034/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1035  group-title="Bonus Channels" tvg-logo="/logos/767.png",LBC SAT AR
+http://cdn-07.v-sr.net/gpl/z064035/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1036  group-title="Bonus Channels" tvg-logo="/logos/767.png",SPORT KLUB 2 SR
+http://cdn-07.v-sr.net/gpl/z064036/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1037  group-title="Bonus Channels" tvg-logo="/logos/767.png",SPORT KLUB 3 SR
+http://cdn-07.v-sr.net/gpl/z064037/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1038  group-title="Bonus Channels" tvg-logo="/logos/767.png",SPORT KLUB 1 SR
+http://cdn-07.v-sr.net/gpl/z064038/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1039  group-title="Bonus Channels" tvg-logo="/logos/767.png",ARENA SPORT 5
+http://cdn-07.v-sr.net/gpl/z064039/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1040  group-title="Bonus Channels" tvg-logo="/logos/767.png",beIN SPORTS HD 2 FR
+http://cdn-07.v-sr.net/gpl/z064040/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1041  group-title="Bonus Channels" tvg-logo="/logos/767.png",SUPER SPORT 3 AL
+http://cdn-07.v-sr.net/gpl/z064041/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1042  group-title="Bonus Channels" tvg-logo="/logos/767.png",SUPER SPORT 2 AL
+http://cdn-07.v-sr.net/gpl/z064042/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1043  group-title="Bonus Channels" tvg-logo="/logos/767.png",SUPER SPORT 1 AL
+http://cdn-07.v-sr.net/gpl/z064043/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1044  group-title="Bonus Channels" tvg-logo="/logos/767.png",Bein Sport 11
+http://cdn-07.v-sr.net/gpl/z064044/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1045  group-title="Bonus Channels" tvg-logo="/logos/767.png",Bein Sport  10
+http://cdn-07.v-sr.net/gpl/z064045/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1046  group-title="Bonus Channels" tvg-logo="/logos/767.png",Bein Sport  9
+http://cdn-07.v-sr.net/gpl/z064046/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1047  group-title="Bonus Channels" tvg-logo="/logos/767.png",Bein Sport  8
+http://cdn-07.v-sr.net/gpl/z064047/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1048  group-title="Bonus Channels" tvg-logo="/logos/767.png",Bein Sport  7
+http://cdn-07.v-sr.net/gpl/z064048/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1049  group-title="Bonus Channels" tvg-logo="/logos/767.png",Bein Sport  6
+http://cdn-07.v-sr.net/gpl/z064049/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1050  group-title="Bonus Channels" tvg-logo="/logos/767.png",Bein Sport  5
+http://cdn-07.v-sr.net/gpl/z064050/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1051  group-title="Bonus Channels" tvg-logo="/logos/767.png",Bein Sport  4
+http://cdn-07.v-sr.net/gpl/z064051/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1052  group-title="Bonus Channels" tvg-logo="/logos/767.png",Bein Sport  2
+http://cdn-07.v-sr.net/gpl/z064052/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1053  group-title="Bonus Channels" tvg-logo="/logos/767.png",beIN SPORTS HD 3 FR
+http://cdn-07.v-sr.net/gpl/z064053/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1054  group-title="Bonus Channels" tvg-logo="/logos/767.png",beIN SPORTS HD 1 FR
+http://cdn-07.v-sr.net/gpl/z064054/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1055  group-title="Bonus Channels" tvg-logo="/logos/767.png",ARENA SPORT  4
+http://cdn-07.v-sr.net/gpl/z064055/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1056  group-title="Bonus Channels" tvg-logo="/logos/767.png",ARENA SPORT  3
+http://cdn-07.v-sr.net/gpl/z064056/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1057  group-title="Bonus Channels" tvg-logo="/logos/767.png",ARENA SPORT 2
+http://cdn-07.v-sr.net/gpl/z064057/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1058  group-title="Bonus Channels" tvg-logo="/logos/767.png",ARENA SPORT 1
+http://cdn-07.v-sr.net/gpl/z064058/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1059  group-title="Bonus Channels" tvg-logo="/logos/767.png",LIG TV 1 Alternatif
+http://cdn-07.v-sr.net/gpl/z064059/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1060  group-title="Bonus Channels" tvg-logo="/logos/767.png",LIG TV 2
+http://cdn-07.v-sr.net/gpl/z064060/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1061  group-title="Bonus Channels" tvg-logo="/logos/767.png",LIG TV HD
+http://cdn-07.v-sr.net/gpl/z064061/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1062  group-title="Bonus Channels" tvg-logo="/logos/767.png",Bein Sport 1
+http://cdn-07.v-sr.net/gpl/z064062/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1063  group-title="Bonus Channels" tvg-logo="/logos/767.png",SUPER SPORT 4 AL
+http://cdn-07.v-sr.net/gpl/z064063/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1101 tvg-id="Das Erste HD DE" group-title="Full HD channels" tvg-logo="/logos/767.png",ARD FHD
+http://cdn-07.v-sr.net/gpl/z091402/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1102 tvg-id="ZDF HD DE" group-title="Full HD channels" tvg-logo="/logos/767.png",ZDF FHD
+http://cdn-07.v-sr.net/gpl/z091401/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1103 tvg-id="SAT.1 HD DE" group-title="Full HD channels" tvg-logo="/logos/767.png",Sat.1 Deutschland FHD
+http://cdn-07.v-sr.net/gpl/z093101/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1104 tvg-id="RTL HD DE" group-title="Full HD channels" tvg-logo="/logos/767.png",RTL Deutschland FHD
+http://cdn-07.v-sr.net/gpl/z090101/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1105 tvg-id="RTL2 HD DE" group-title="Full HD channels" tvg-logo="/logos/767.png",RTL2 FHD
+http://cdn-07.v-sr.net/gpl/z090104/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1106 tvg-id="ProSieben HD DE" group-title="Full HD channels" tvg-logo="/logos/767.png",Pro Sieben Deutschland FHD
+http://cdn-07.v-sr.net/gpl/z090102/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1107 tvg-id="VOX HD DE" group-title="Full HD channels" tvg-logo="/logos/767.png",VOX FHD
+http://cdn-07.v-sr.net/gpl/z090220/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1108 tvg-id="kabel eins HD DE" group-title="Full HD channels" tvg-logo="/logos/767.png",kabel eins FHD
+http://cdn-07.v-sr.net/gpl/z090103/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1109 tvg-id="KIKA HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",KIKA FHD
+http://cdn-07.v-sr.net/gpl/z090498/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1110 tvg-id="SRF 1 HD" group-title="Full HD channels" tvg-logo="/logos/767.png",SRF 1 FHD
+http://cdn-07.v-sr.net/gpl/z090581/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1111 tvg-id="SRF 2 DE" group-title="Full HD channels" tvg-logo="/logos/767.png",SRF 2 FHD
+http://cdn-07.v-sr.net/gpl/z090582/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1112 tvg-id="SRF info" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",SRF info  DE
+http://cdn-07.v-sr.net/gpl/z090687/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1113 tvg-id="arte HD DE" group-title="Full HD channels" tvg-logo="/logos/767.png",ARTE FHD
+http://cdn-07.v-sr.net/gpl/z090218/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1114 tvg-id="N-TV DE" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",N-TV DE FHD
+http://cdn-07.v-sr.net/gpl/z090548/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1115 tvg-id="Sky Bundesliga HD 1 DE" group-title="Full HD channels" tvg-logo="/logos/767.png",Sky Bundesliga 1 FHD
+http://cdn-07.v-sr.net/gpl/z090333/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1116 tvg-id="Sky Bundesliga HD 2 DE" group-title="Full HD channels" tvg-logo="/logos/767.png",Bundesliga 2 FHD
+http://cdn-07.v-sr.net/gpl/z090570/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1117 tvg-id="Sky Nostalgie DE" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",Sky Nostalgie
+http://cdn-07.v-sr.net/gpl/z093063/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1118 tvg-id="Tele 5 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",Tele 5 FHD
+http://cdn-07.v-sr.net/gpl/z093064/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1119 tvg-id="Phoenix DE" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",PHOENIX FHD
+http://cdn-07.v-sr.net/gpl/z093087/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1120 tvg-id="Pro Sieben Maxx DE" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",ProSieben MAXX FHD
+http://cdn-07.v-sr.net/gpl/z093036/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1121 tvg-id="Sky Bundesliga 3 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",Sky Bundesliga 3 DE
+http://cdn-07.v-sr.net/gpl/z090571/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1122 tvg-id="Sky Bundesliga 4 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",Sky Bundesliga 4 DE
+http://cdn-07.v-sr.net/gpl/z090572/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1123 tvg-id="Sky Bundesliga 5 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",Sky Bundesliga 5 DE
+http://cdn-07.v-sr.net/gpl/z090573/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1124 tvg-id="Sky Bundesliga 6 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",Sky Bundesliga 6 DE
+http://cdn-07.v-sr.net/gpl/z090574/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1125 tvg-id="Sky Sport HD 1 DE" group-title="Full HD channels" tvg-logo="/logos/767.png",Sky Sport FHD 1
+http://cdn-07.v-sr.net/gpl/z090358/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1126 tvg-id="Sky Sport HD 2 DE" group-title="Full HD channels" tvg-logo="/logos/767.png",Sky Sport FHD 2
+http://cdn-07.v-sr.net/gpl/z090286/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1127 tvg-id="Sky Sport 3 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",Sky Sport 3  DE
+http://cdn-07.v-sr.net/gpl/z093050/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1128 tvg-id="Sky Sport 4 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",Sky Sport 4  DE
+http://cdn-07.v-sr.net/gpl/z093051/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1129 tvg-id="Sky Sport 5 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",Sky Sport 5  DE
+http://cdn-07.v-sr.net/gpl/z093052/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1130 tvg-id="Sky Sport 6 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",Sky Sport 6  DE
+http://cdn-07.v-sr.net/gpl/z093053/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1131  group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",Sky Sport News  DE
+http://cdn-07.v-sr.net/gpl/z093062/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1139 tvg-id="Eurosport DE" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",Eurosport  DE
+http://cdn-07.v-sr.net/gpl/z090503/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1140 tvg-id="Sky Cinema HD DE" group-title="Full HD channels" tvg-logo="/logos/767.png",Sky Cinema FHD
+http://cdn-07.v-sr.net/gpl/z090393/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1141 tvg-id="Sky Action HD DE" group-title="Full HD channels" tvg-logo="/logos/767.png",Sky Action FHD
+http://cdn-07.v-sr.net/gpl/z090280/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1142 tvg-id="Sky Hits DE" group-title="Full HD channels" tvg-logo="/logos/767.png",Sky 007 James Bond FHD
+http://cdn-07.v-sr.net/gpl/z090274/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1143 tvg-id="Sky Atlantic HD DE" group-title="Full HD channels" tvg-logo="/logos/767.png",Sky Atlantic FHD
+http://cdn-07.v-sr.net/gpl/z090285/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1144 tvg-id="Fox HD DE" group-title="Full HD channels" tvg-logo="/logos/767.png",FOX DE FHD
+http://cdn-07.v-sr.net/gpl/z090579/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1145 tvg-id="Sky Comedy DE" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",Sky Comedy  DE
+http://cdn-07.v-sr.net/gpl/z093059/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1146 tvg-id="TNT Film DE" group-title="Full HD channels" tvg-logo="/logos/767.png",TNT Film FHD
+http://cdn-07.v-sr.net/gpl/z090566/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1147 tvg-id="TNT Serie HD DE" group-title="Full HD channels" tvg-logo="/logos/767.png",TNT Serie FHD
+http://cdn-07.v-sr.net/gpl/z090407/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1148 tvg-id="Sky Cinema +24 DE" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",Sky Cinema +24  DE
+http://cdn-07.v-sr.net/gpl/z093061/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1149 tvg-id="Sky Emotion DE" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",Sky Emotion  DE
+http://cdn-07.v-sr.net/gpl/z093060/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1150 tvg-id="Syfy HD DE" group-title="Full HD channels" tvg-logo="/logos/767.png",Syfy FHD
+http://cdn-07.v-sr.net/gpl/z090563/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1152 tvg-id="History HD DE" group-title="Full HD channels" tvg-logo="/logos/767.png",History FHD
+http://cdn-07.v-sr.net/gpl/z090560/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1153 tvg-id="Nat Geo Wild HD DE" group-title="Full HD channels" tvg-logo="/logos/767.png",Nat Geo Wild FHD
+http://cdn-07.v-sr.net/gpl/z090287/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1158 tvg-id="Sky 3D DE" group-title="Full HD channels" tvg-logo="/logos/767.png",Sky 3D DE FHD
+http://cdn-07.v-sr.net/gpl/z090569/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1165 tvg-id="N24 HD DE" group-title="Full HD channels" tvg-logo="/logos/767.png",N24 FHD
+http://cdn-07.v-sr.net/gpl/z090008/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1166 tvg-id="3sat HD DE" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",3sat FHD
+http://cdn-07.v-sr.net/gpl/z090497/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1167 tvg-id="Super RTL DE" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",Super RTL FHD
+http://cdn-07.v-sr.net/gpl/z090546/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1168 tvg-id="DE Euronews" group-title="Deutsche Kanäle" tvg-logo="/logos/767.png",EuroNews  DE
+http://cdn-07.v-sr.net/gpl/z090504/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1169 tvg-id="Sky_Krimi_DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1350.png",Sky Krimi DE
+http://cdn-07.v-sr.net/gpl/z053075/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1170 tvg-id="RTL_Crime_DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1351.png",RTL Crime DE
+http://cdn-07.v-sr.net/gpl/z053076/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1171 tvg-id="RTL_Passion_DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1352.png",RTL Passion DE
+http://cdn-07.v-sr.net/gpl/z053077/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1172 tvg-id="Sky_Sport_Austria_DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1353.png",Sky Sport Austria DE
+http://cdn-07.v-sr.net/gpl/z053078/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1173 tvg-id="Motorvision_TV_DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1354.png",Motorvision TV DE
+http://cdn-07.v-sr.net/gpl/z053079/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1174 tvg-id="SAT.1_emotions_DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1355.png",SAT.1 emotions DE
+http://cdn-07.v-sr.net/gpl/z053080/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1175 tvg-id="Universal_HD_DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1356.png",Universal HD DE
+http://cdn-07.v-sr.net/gpl/z053081/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1176 tvg-id="Pro7_FUN_HD_DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1357.png",Pro7 FUN HD DE
+http://cdn-07.v-sr.net/gpl/z053082/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1177 tvg-id="Eurosport_2_HD_DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1358.png",Eurosport 2 DE
+http://cdn-07.v-sr.net/gpl/z053083/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1178 tvg-id="E_HD_DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1359.png",E HD DE
+http://cdn-07.v-sr.net/gpl/z053084/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1179 tvg-id="BR_Sud_HD_DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1362.png",BR Sud HD DE
+http://cdn-07.v-sr.net/gpl/z053085/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1180 tvg-id="NDR_FS_NDS_HD_DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1363.png",NDR FS NDS HD DE
+http://cdn-07.v-sr.net/gpl/z053086/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1181 tvg-id="PHOENIX_HD_DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1364.png",PHOENIX HD DE
+http://cdn-07.v-sr.net/gpl/z053087/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1195 tvg-id="OSport_plus_DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1387.png",ORF Sport +DE
+http://cdn-07.v-sr.net/gpl/z053090/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1196 tvg-id="ATV_2_DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1386.png",ATV 2 DE
+http://cdn-07.v-sr.net/gpl/z053089/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
+#EXTINF:1197 tvg-id="ATV_HD_DE" group-title="Deutsche Kanäle" tvg-logo="/logos/1385.png",ATV HD DE
+http://cdn-07.v-sr.net/gpl/z053088/fred123/b3311d75d52eb8c1e50b4eb25e369a41215cd2db?t=2&d=2
